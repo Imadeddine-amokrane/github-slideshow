@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+
+Everyone has a lan until he get punched in the mouth
 Use the left arrow to go back!
